@@ -1,0 +1,23 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "description": "learn TS easily",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekgupta0292/learnTS.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts"
+  ],
+  "author": "vivekgupta0292",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekgupta0292/learnTS/issues"
+  },
+  "homepage": "https://github.com/vivekgupta0292/learnTS#readme"
+}
